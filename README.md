@@ -42,3 +42,26 @@ A button specified in the screen to ensure if we want to cancel the charging. Th
 
 4.Error handling:
 A clear error messages with guidance on resolving the issues made by the user. This will help the user to correct their mistakes done while authentication or in payment
+
+5. Prototype design
+The prototype design for EV public charging point has different screens for managing and showing a seamless transition between the screens and make it user friendly. The below are the screens used in this prototype for creating an interface. The interface is designed using a tool called figma, which is used for creating high fidelity and seamless transitions. Figma is a UI/UX designing tool used here to create a EV public charging point interface according to the given instructions. As per the previous response, I have mentioned the different screens used in my design for creating this project.
+The screens used in the design:
+Attractor screen – Initial page or a greeting page
+Authentication screen – It includes both the account authentication and QR code authentication.
+QR scanner screen – screen consisting a QR code for scanning, so that user can proceed.
+QR not recognized screen – screen consists error message about “not” recognizing the QR 
+PIN screen – PIN screen is designed for managing the flow between the next screen from the authentication screen
+Charging details screen – screen consisting of the type of vehicle choose by the user.
+Charging bay screens – selection of available charging bays in the station
+Charging bay error screen – screen which helps user to select the working / available bay.
+Charge duration screen – A default screen where user selects time for charging the vehicle.
+Payment details screen – consists of total amount to be paid , and also include their payment methods like account transaction and contactless transaction.
+Payment error screen – screen helps user to select the payment method before transacation
+Account transaction screen – Navigated from payment details screen in to this for completing the payment process.
+Contactless screen – consisting of contactless transaction methodologies where user just places their card for making the payment
+Payment success screen – a screen gives info to user about payment success.
+Payment Failed screen – screen represents the failure of the payment.
+Start charging screen – screen consisting of details of charging and also its analysis.
+Cancel charging screen – screen consists the final charging percentage and other options like continue charging or close .
+PIN 2 screen – another PIN authentication screen for closing or cancelling the charging
+
