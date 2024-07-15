@@ -1,4 +1,5 @@
 # EV Public Charging Point Figma UI
+Figma link : https://www.figma.com/design/6wuwjJHuAMj3RA9UTAaqtj/EV-Public-Charging-Point-Design-Interface?node-id=0-1
 
 ## 1. Introduction
 This project designs a user-friendly touch interface for public EV charging points. It prioritizes simplicity, efficiency, and safety for all users, regardless of their tech knowledge or familiarity with EV charging. It leverages established HCI principles from ACM SIGCHI, JBIT, case studies, and ISO 9241 for optimal user experience.
